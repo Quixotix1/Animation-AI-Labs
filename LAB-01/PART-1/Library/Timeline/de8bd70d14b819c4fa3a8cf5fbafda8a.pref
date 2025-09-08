@@ -12,59 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d79cb9ecc0d4a6d428ab98a681a33897, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeAreaShownRange: {x: -0.12944363, y: 12.331662}
+  timeAreaShownRange: {x: -0.29594797, y: 28.637897}
   trackScale: 1.257498
   playRangeEnabled: 0
   windowTime: 0
-  verticalScroll: 0.68296814
+  verticalScroll: 0
   sequencerHeaderWidth: 325.33334
   m_TimeAreaPlayRange:
     start: 0
     end: 0
   m_Keys:
-  - {fileID: 1748382337532107002, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
   - {fileID: -1098292909724564954, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
-  - {fileID: -1353188010856697140, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
   - {fileID: -6410497832218638092, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
-  - {fileID: 736620834820114711, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
   - {fileID: -4607639975174700722, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
+  - {fileID: -1378595551586765442, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
   m_Vals:
-  - collapsed: 0
-    showMarkers: 1
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -1
-    inlineCurvesState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString: 
-    inlineCurvesShownAreaInsideMargins:
-      serializedVersion: 2
-      x: 1
-      y: 1
-      width: 1
-      height: 1
-    trackHeightExtension: 0
-    m_MarkerTimeStampsKeys: 
-    m_MarkerTimeStampsValues: 
   - collapsed: 0
     showMarkers: 1
     showInlineCurves: 0
@@ -98,42 +60,6 @@ MonoBehaviour:
       y: -720
       width: 86.95347
       height: 721
-    trackHeightExtension: 0
-    m_MarkerTimeStampsKeys: 
-    m_MarkerTimeStampsValues: 
-  - collapsed: 0
-    showMarkers: 1
-    showInlineCurves: 0
-    inlineAnimationCurveHeight: 100
-    lastInlineCurveDataID: -1
-    inlineCurvesState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString: 
-    inlineCurvesShownAreaInsideMargins:
-      serializedVersion: 2
-      x: 1
-      y: 1
-      width: 1
-      height: 1
     trackHeightExtension: 0
     m_MarkerTimeStampsKeys: 
     m_MarkerTimeStampsValues: 

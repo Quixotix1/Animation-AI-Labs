@@ -666,6 +666,7 @@ GameObject:
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
+  - component: {fileID: 963194230}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -740,7 +741,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.23911765, y: 0.3696438, z: -0.09904577, w: 0.89239913}
+  m_LocalRotation: {x: 0.23911764, y: 0.3696438, z: -0.09904576, w: 0.89239913}
   m_LocalPosition: {x: -3, y: 4, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -768,11 +769,34 @@ PlayableDirector:
     value: {fileID: 1896999197}
   - key: {fileID: -4607639975174700722, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
     value: {fileID: 1731473360}
+  - key: {fileID: -1378595551586765442, guid: de8bd70d14b819c4fa3a8cf5fbafda8a, type: 2}
+    value: {fileID: 963194230}
   m_ExposedReferences:
     m_References:
     - 3a03afaa226296d43a108154cccc3b08: {fileID: 1156664184}
     - 3a9a78cc94146de4491605adb65ee3e6: {fileID: 1896999193}
     - bb02e274e60503e4eb6c134de4194fff: {fileID: 1731473359}
+--- !u!95 &963194230
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &1156664182
 PrefabInstance:
   m_ObjectHideFlags: 0
